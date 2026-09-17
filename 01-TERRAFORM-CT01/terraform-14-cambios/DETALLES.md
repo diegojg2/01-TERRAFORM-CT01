@@ -1,0 +1,8 @@
+1 try { . "c:\Users\S2-PC00\AppData\Local\Programs\Microsoft VS Code\125df4672b\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {} 
+2 $env:AWS_ACCESS_KEY_ID="ASIA3MCDEP5DXKFN7WU4"... 
+3 mkdir terraform-14-cambios 
+4 terraform init 
+5 cd .\terraform-14-cambios\ 
+6 terraform init 
+7 terraform apply 
+8 terraform plan
